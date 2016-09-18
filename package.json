@@ -25,10 +25,6 @@
   "dependencies": {
     "fbjs": "0.8.4"
   },
-  "peerDependencies": {
-    "react": "~15.3.0",
-    "three": ">=0.78.0 < 0.80.0"
-  },
   "devDependencies": {
     "babel-cli": "6.11.4",
     "babel-core": "6.13.2",
@@ -73,13 +69,13 @@
     "sinon": "2.0.0-pre",
     "source-map-support": "0.4.2",
     "stream-to-string": "1.1.0",
-    "three": "0.79.0",
+    "three": "0.81.0",
     "webpack": "1.13.2",
     "webpack-dev-server": "1.14.1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/toxicFork/react-three-renderer.git"
+    "url": "git+https://github.com/reduxdj/react-three-renderer"
   },
   "babel": {
     "presets": [
